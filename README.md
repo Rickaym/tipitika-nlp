@@ -1,9 +1,9 @@
 <p align="center">
   <h3 align="center">Tipitika NLP</h3>
-  
   <a href="https://tp-recall.pyaesonemyo.com/"><strong>See the Demo »</strong></a>
   </p>
 </p>
+
 <!-- Body -->
 The Tipitika NLP project aims to create a set of NLP tools to help in the understanding and text searching of the English Tipitika. For those uninitiated, the Tipitika (ပိဋကတ် သုံးပုံ) is a compilation of Buddhist sacred scriptures and doctrinal teachings. It is composed of three main categories of texts that make up the Buddhist canon: the Sutta Piṭaka, the Vinaya Piṭaka, and the Abhidhamma Piṭaka. The English Tipitika is a highly esteemed translation from various indo-aryan and austroasiatic scriptures of the Tipitika.
 
