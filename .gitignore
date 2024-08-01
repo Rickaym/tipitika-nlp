@@ -1,0 +1,9 @@
+**.pyc
+.env
+libs/**
+__**
+db/**
+!db/chroma.sqlite3
+# personal pipenv
+Pip**
+data/**

@@ -1,0 +1,14 @@
+openai
+python-dotenv
+chromadb
+sentence-transformers
+torch
+numpy
+pandas
+langchain
+beautifulsoup4
+streamlit
+ipywidgets
+widgetsnbextension
+matplotlib
+umap-learn

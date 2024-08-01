@@ -1,0 +1,1 @@
+cd app && streamlit run Demo.py
